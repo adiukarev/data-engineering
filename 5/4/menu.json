@@ -1,0 +1,122 @@
+[
+    {
+        "item_id": 1,
+        "name": "Time",
+        "price": 25.84,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 2,
+        "name": "Expert",
+        "price": 36.31,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 3,
+        "name": "Interview",
+        "price": 28.79,
+        "category": "Dessert"
+    },
+    {
+        "item_id": 4,
+        "name": "Detail",
+        "price": 14.48,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 5,
+        "name": "Radio",
+        "price": 27.51,
+        "category": "Dessert"
+    },
+    {
+        "item_id": 6,
+        "name": "Somebody",
+        "price": 14.54,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 7,
+        "name": "Real",
+        "price": 36.02,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 8,
+        "name": "Best",
+        "price": 29.16,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 9,
+        "name": "Play",
+        "price": 14.65,
+        "category": "Main Course"
+    },
+    {
+        "item_id": 10,
+        "name": "Election",
+        "price": 19.63,
+        "category": "Dessert"
+    },
+    {
+        "item_id": 11,
+        "name": "Mouth",
+        "price": 9.6,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 12,
+        "name": "Citizen",
+        "price": 18.23,
+        "category": "Main Course"
+    },
+    {
+        "item_id": 13,
+        "name": "From",
+        "price": 49.97,
+        "category": "Dessert"
+    },
+    {
+        "item_id": 14,
+        "name": "Senior",
+        "price": 7.2,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 15,
+        "name": "Find",
+        "price": 45.28,
+        "category": "Appetizer"
+    },
+    {
+        "item_id": 16,
+        "name": "Administration",
+        "price": 15.34,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 17,
+        "name": "Mission",
+        "price": 44.8,
+        "category": "Beverage"
+    },
+    {
+        "item_id": 18,
+        "name": "Land",
+        "price": 13.44,
+        "category": "Dessert"
+    },
+    {
+        "item_id": 19,
+        "name": "Behavior",
+        "price": 31.93,
+        "category": "Dessert"
+    },
+    {
+        "item_id": 20,
+        "name": "Some",
+        "price": 11.25,
+        "category": "Main Course"
+    }
+]

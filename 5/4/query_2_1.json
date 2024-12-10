@@ -1,0 +1,82 @@
+[
+    {
+        "_id": 3,
+        "total_revenue": 60.0
+    },
+    {
+        "_id": 14,
+        "total_revenue": 140.0
+    },
+    {
+        "_id": 11,
+        "total_revenue": 209.0
+    },
+    {
+        "_id": 6,
+        "total_revenue": 90.0
+    },
+    {
+        "_id": 20,
+        "total_revenue": 620.0
+    },
+    {
+        "_id": 18,
+        "total_revenue": 432.0
+    },
+    {
+        "_id": 8,
+        "total_revenue": 200.0
+    },
+    {
+        "_id": 10,
+        "total_revenue": 350.0
+    },
+    {
+        "_id": 13,
+        "total_revenue": 260.0
+    },
+    {
+        "_id": 7,
+        "total_revenue": 217.0
+    },
+    {
+        "_id": 2,
+        "total_revenue": 58.0
+    },
+    {
+        "_id": 5,
+        "total_revenue": 110.0
+    },
+    {
+        "_id": 16,
+        "total_revenue": 384.0
+    },
+    {
+        "_id": 17,
+        "total_revenue": 119.0
+    },
+    {
+        "_id": 15,
+        "total_revenue": 225.0
+    },
+    {
+        "_id": 9,
+        "total_revenue": 171.0
+    },
+    {
+        "_id": 12,
+        "total_revenue": 288.0
+    },
+    {
+        "_id": 19,
+        "total_revenue": 494.0
+    },
+    {
+        "_id": 1,
+        "total_revenue": 24.0
+    },
+    {
+        "_id": 4,
+        "total_revenue": 64.0
+    }
+]

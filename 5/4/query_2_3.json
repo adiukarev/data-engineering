@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "Beverage",
+        "average_price": 27.68405555555556
+    },
+    {
+        "_id": "Appetizer",
+        "average_price": 38.54853846153846
+    },
+    {
+        "_id": "Dessert",
+        "average_price": 29.296928571428573
+    },
+    {
+        "_id": "Main Course",
+        "average_price": 31.875357142857144
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d24"
+        },
+        "item_id": 3,
+        "name": "Six",
+        "price": 48.1965,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d2c"
+        },
+        "item_id": 11,
+        "name": "North",
+        "price": 19.670749999999998,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db49341201d"
+        },
+        "item_id": 14,
+        "name": "Friend",
+        "price": 54.81245,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412023"
+        },
+        "item_id": 20,
+        "name": "Notice",
+        "price": 56.317800000000005,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f0f"
+        },
+        "item_id": 9,
+        "name": "Play",
+        "price": 14.65,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f12"
+        },
+        "item_id": 12,
+        "name": "Citizen",
+        "price": 18.23,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f1a"
+        },
+        "item_id": 20,
+        "name": "Some",
+        "price": 11.25,
+        "category": "Main Course"
+    }
+]

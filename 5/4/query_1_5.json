@@ -1,0 +1,317 @@
+[
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d22"
+        },
+        "item_id": 1,
+        "name": "Mind",
+        "price": 50.71000000000001,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d24"
+        },
+        "item_id": 3,
+        "name": "Six",
+        "price": 48.1965,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d25"
+        },
+        "item_id": 4,
+        "name": "Box",
+        "price": 48.49900000000001,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d27"
+        },
+        "item_id": 6,
+        "name": "Despite",
+        "price": 43.956,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d28"
+        },
+        "item_id": 7,
+        "name": "Somebody",
+        "price": 38.940000000000005,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d29"
+        },
+        "item_id": 8,
+        "name": "Raise",
+        "price": 53.108000000000004,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d2a"
+        },
+        "item_id": 9,
+        "name": "Me",
+        "price": 52.59100000000001,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d2d"
+        },
+        "item_id": 12,
+        "name": "Approach",
+        "price": 45.562000000000005,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d2e"
+        },
+        "item_id": 13,
+        "name": "Drive",
+        "price": 34.155,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d2f"
+        },
+        "item_id": 14,
+        "name": "Door",
+        "price": 41.217,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d34"
+        },
+        "item_id": 19,
+        "name": "Various",
+        "price": 32.472,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412011"
+        },
+        "item_id": 2,
+        "name": "Interesting",
+        "price": 22.308000000000003,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412012"
+        },
+        "item_id": 3,
+        "name": "Let",
+        "price": 28.127000000000002,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412013"
+        },
+        "item_id": 4,
+        "name": "Avoid",
+        "price": 51.52400000000001,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412015"
+        },
+        "item_id": 6,
+        "name": "Tell",
+        "price": 40.821000000000005,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412016"
+        },
+        "item_id": 7,
+        "name": "Land",
+        "price": 47.707,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412017"
+        },
+        "item_id": 8,
+        "name": "Four",
+        "price": 45.276,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412018"
+        },
+        "item_id": 9,
+        "name": "Talk",
+        "price": 33.022000000000006,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412019"
+        },
+        "item_id": 10,
+        "name": "Consumer",
+        "price": 35.38700000000001,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db49341201a"
+        },
+        "item_id": 11,
+        "name": "Whole",
+        "price": 36.025000000000006,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db49341201d"
+        },
+        "item_id": 14,
+        "name": "Friend",
+        "price": 54.81245,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db49341201e"
+        },
+        "item_id": 15,
+        "name": "Order",
+        "price": 31.383000000000003,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db49341201f"
+        },
+        "item_id": 16,
+        "name": "Heavy",
+        "price": 30.646,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412021"
+        },
+        "item_id": 18,
+        "name": "Happen",
+        "price": 26.400000000000002,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412023"
+        },
+        "item_id": 20,
+        "name": "Notice",
+        "price": 56.317800000000005,
+        "category": "Main Course"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f07"
+        },
+        "item_id": 1,
+        "name": "Time",
+        "price": 25.84,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f08"
+        },
+        "item_id": 2,
+        "name": "Expert",
+        "price": 36.31,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f09"
+        },
+        "item_id": 3,
+        "name": "Interview",
+        "price": 28.79,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f0b"
+        },
+        "item_id": 5,
+        "name": "Radio",
+        "price": 27.51,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f0d"
+        },
+        "item_id": 7,
+        "name": "Real",
+        "price": 36.02,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f0e"
+        },
+        "item_id": 8,
+        "name": "Best",
+        "price": 29.16,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f13"
+        },
+        "item_id": 13,
+        "name": "From",
+        "price": 49.97,
+        "category": "Dessert"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f15"
+        },
+        "item_id": 15,
+        "name": "Find",
+        "price": 45.28,
+        "category": "Appetizer"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f17"
+        },
+        "item_id": 17,
+        "name": "Mission",
+        "price": 44.8,
+        "category": "Beverage"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f19"
+        },
+        "item_id": 19,
+        "name": "Behavior",
+        "price": 31.93,
+        "category": "Dessert"
+    }
+]

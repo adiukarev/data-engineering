@@ -1,0 +1,52 @@
+[
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d36"
+        },
+        "order_id": 1,
+        "customer_name": "Jack Perry",
+        "item_id": 1,
+        "quantity": 4,
+        "order_date": "2024-04-08"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d47"
+        },
+        "order_id": 18,
+        "customer_name": "Amanda Cochran",
+        "item_id": 1,
+        "quantity": 3,
+        "order_date": "2024-01-07"
+    },
+    {
+        "_id": {
+            "$oid": "67583e8eb3dcf07a7c4f8d5d"
+        },
+        "order_id": 40,
+        "customer_name": "Monica Durham",
+        "item_id": 1,
+        "quantity": 6,
+        "order_date": "2024-07-27"
+    },
+    {
+        "_id": {
+            "$oid": "67583ed6e6403db493412038"
+        },
+        "order_id": 21,
+        "customer_name": "Steven Chapman",
+        "item_id": 1,
+        "quantity": 6,
+        "order_date": "2024-02-07"
+    },
+    {
+        "_id": {
+            "$oid": "67583f152502c44a127e0f2d"
+        },
+        "order_id": 19,
+        "customer_name": "Adam Rogers",
+        "item_id": 1,
+        "quantity": 5,
+        "order_date": "2024-01-27"
+    }
+]

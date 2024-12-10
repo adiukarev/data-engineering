@@ -1,0 +1,18 @@
+[
+    {
+        "_id": "Beverage",
+        "total_revenue": 10884.013
+    },
+    {
+        "_id": "Dessert",
+        "total_revenue": 8670.581
+    },
+    {
+        "_id": "Appetizer",
+        "total_revenue": 10720.814
+    },
+    {
+        "_id": "Main Course",
+        "total_revenue": 4696.27055
+    }
+]
